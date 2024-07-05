@@ -44,3 +44,23 @@
  #root, #__next {
    isolation: isolate;
  }
+/*///////////////////////////////////////////////////////*/
+
+.wrapper {
+  padding: 15px;
+}
+
+.header {
+
+}
+
+.nav { 
+
+}
+
+.nav__logo {
+  
+}
+
+.button {
+}
